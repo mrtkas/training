@@ -1,2 +1,2 @@
 # training
-Trainige repo for Java projects
+Trainig repo for Java projects
